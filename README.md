@@ -39,3 +39,7 @@ them.
 ![Screen Shot 2021-11-24 at 19 16 03](https://user-images.githubusercontent.com/67627410/143293154-06e545e5-d5f2-410f-b3a0-4cc0810e8b39.png)
 
 ![Screen Shot 2021-11-24 at 19 16 11](https://user-images.githubusercontent.com/67627410/143293163-e7239c16-8188-4ca8-9ae3-c2e5ff72acdd.png)
+
+For more details, please contact:
+yimin.yang@student.maastrichtuniversity.nl
+s.kuang@student.maastrichtnuiversity.nl
