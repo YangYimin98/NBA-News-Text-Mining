@@ -1,5 +1,4 @@
 # NBA News Text Mining
--------A text mining task regarding the last four year news from NBA official website-------
 
 This project is a text mining task for the news posted on the NBA official website from the past four years. Given
 the overall idea of project completion in followings. Worth to mention that the project is accomplished in
