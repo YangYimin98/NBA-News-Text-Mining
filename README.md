@@ -1,15 +1,13 @@
-# NBA-News-Text-Mining
-A text mining task regarding the last four year news from NBA official website.
+# NBA News Text Mining
+-------A text mining task regarding the last four year news from NBA official website-------
 
 This project is a text mining task for the news posted on the NBA official website from the past four years. Given
 the overall idea of project completion in followings. Worth to mention that the project is accomplished in
 accordance with the order of Prof. Dr. Ir. Jan C. Scholtes’s Information Retrieval & Text Mining lecture. The
 toolkit used for the project mainly include Spacy, NLTK and Gensim. Precision, Recall and F1 scores are used to
-evaluate every step.
+evaluate every step. Given all the tasks included in the project in the following:
 
-• Data Acquisition: Crawl the data from NBA website and clean up the data.
-
-Data is crawled from http://www.nba.com/news
+• Data Acquisition: Crawl the data from http://www.nba.com/news  and clean up the data.
 
 • Data Pre-Processing: Stopwords, Tokenization, Stemming and Lemmatization.
 ![Screen Shot 2021-11-24 at 19 13 15](https://user-images.githubusercontent.com/67627410/143292784-23b39ea4-8647-4fac-bfd5-fde50e6b814e.png)
@@ -43,5 +41,6 @@ them.
 ![Screen Shot 2021-11-24 at 19 16 11](https://user-images.githubusercontent.com/67627410/143293163-e7239c16-8188-4ca8-9ae3-c2e5ff72acdd.png)
 
 For more details, please contact:
-yimin.yang@student.maastrichtuniversity.nl
-s.kuang@student.maastrichtnuiversity.nl
+
+• yimin.yang@student.maastrichtuniversity.nl
+• s.kuang@student.maastrichtnuiversity.nl
