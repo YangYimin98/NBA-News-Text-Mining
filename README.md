@@ -9,6 +9,8 @@ evaluate every step.
 
 • Data Acquisition: Crawl the data from NBA website and clean up the data.
 
+Data is crawled from http://www.nba.com/news
+
 • Data Pre-Processing: Stopwords, Tokenization, Stemming and Lemmatization.
 ![Screen Shot 2021-11-24 at 19 13 15](https://user-images.githubusercontent.com/67627410/143292784-23b39ea4-8647-4fac-bfd5-fde50e6b814e.png)
 
