@@ -6,6 +6,7 @@ the overall idea of project completion in followings. Worth to mention that the 
 accordance with the order of Prof. Dr. Ir. Jan C. Scholtes’s Information Retrieval & Text Mining lecture. The
 toolkit used for the project mainly include Spacy, NLTK and Gensim. Precision, Recall and F1 scores are used to
 evaluate every step.
+
 • Data Acquisition: Crawl the data from NBA website and clean up the data.
 • Data Pre-Processing: Stopwords, Tokenization, Stemming and Lemmatization.
 • Named Entity Recognition: Compare and evaluate different NER models.
@@ -19,5 +20,5 @@ results.
 model.
 • Visualization: Visualize the relations between person and teams every other quarter, compare and analyze
 them.
-Given theDrive link:https://drive.google.com/file/d/1q9lxvw5QpXs4SCWI66Cv24lcVTzb1MVI/view?usp=sharing.
+
 
